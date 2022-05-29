@@ -40,4 +40,5 @@ Technologies used in the project:
 <h2>😍 Credits</h2>
 Here's project credits:
 *   nax#1800
+*   
 *   DRQSuperior#0001
