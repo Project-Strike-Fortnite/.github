@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://media.discordapp.net/attachments/977355695697575996/980279386215419924/unknown.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://media.discordapp.net/attachments/977355695697575996/980279386215419924/unknown.png" alt="project-screenshot">
 
   
   
