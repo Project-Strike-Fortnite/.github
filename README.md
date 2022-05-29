@@ -4,10 +4,6 @@
 
 <p id="description">Fortnite mod for Version 4.1</p>
 
-<h2>🚀 Demo</h2>
-
-[https://cdn.discordapp.com/attachments/934852081582489690/980328132026458142/Strike\_1.dll](https://cdn.discordapp.com/attachments/934852081582489690/980328132026458142/Strike_1.dll)
-
 <h2>Project Screenshots:</h2>
 
 <img src="https://media.discordapp.net/attachments/977355695697575996/980279386215419924/unknown.png" alt="project-screenshot">
@@ -24,6 +20,10 @@ Here're some of the project's best features:
 *   Cheat Manager
 *   Gui
 
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Join discord for help</p>
+
 ```
 https://discord.gg/V5K6pTe7dD
 ```
@@ -37,8 +37,8 @@ Technologies used in the project:
 *   Visual Studio 2022
 *   C++
 
-<h2>😍 Credits</h2>
-Here's project credits:
+<h2>💖Credits</h2>
+Here're the projects credits:
+
 *   nax#1800
-*   
 *   DRQSuperior#0001
