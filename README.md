@@ -37,7 +37,7 @@ Technologies used in the project:
 *   Visual Studio 2022
 *   C++
 
-<h2> 💖Credits</h2>
+<h2>💖 Credits</h2>
 Here're the projects credits:
 
 *   nax#1800
